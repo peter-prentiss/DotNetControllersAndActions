@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.deps.json
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.runtimeconfig.json
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.dll
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.AssemblyInfo.cs
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.pdb
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.dll
+C:\Users\Peter\source\repos\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.pdb
